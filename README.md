@@ -1,2 +1,2 @@
-# DokiDoki_New
-新紙校 - Deployed by EZPage
+# DOKIDOKI
+測一下 - Deployed by EZPage
